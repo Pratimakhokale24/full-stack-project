@@ -1,0 +1,18 @@
+pratima khokale
+P.khokale@email.com
+
+Senior Software Engineer with 6 years of experience in JavaScript, React, and Node.js. 
+Experienced with AWS cloud technologies, MongoDB, and building scalable web applications.
+Strong background in database design and API development.
+
+Skills:
+- JavaScript (6 years)
+- React (5 years)
+- Node.js (4 years)
+- AWS Cloud Technologies (3 years)
+- MongoDB (4 years)
+- Database Design (3 years)
+- REST APIs (4 years)
+
+Education:
+Bachelor of Science in Computer Science, University of Technology

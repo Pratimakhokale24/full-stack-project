@@ -1,0 +1,5 @@
+{
+  "name": "Job Screening Assistant",
+  "description": "An AI-powered application to streamline the hiring process by summarizing job descriptions, screening candidates based on their CVs, shortlisting top matches, and drafting interview invitations.",
+  "requestFramePermissions": []
+}
