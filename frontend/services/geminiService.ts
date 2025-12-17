@@ -1,6 +1,6 @@
 import { JobDetails, Candidate } from '../types';
 
-const API_BASE_URL = 'http://localhost:3001/api';
+const API_BASE_URL = 'localhost url';
 
 export const summarizeJobDescription = async (jdText: string, jobTitle: string): Promise<Omit<JobDetails, 'companyName' | 'title'>> => {
     try {
